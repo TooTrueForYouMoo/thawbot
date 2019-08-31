@@ -4,6 +4,7 @@ import asyncio
 import time
 import os
 
+TOKEN = 'NjE2MzYzODkyNjc0Nzg5Mzg0.XWlDRQ.ol94rtht8v5iQlTow4UEIKg5zQQ'
 Client = discord.Client()
 client = commands.Bot(command_prefix = '.')
 @client.event
